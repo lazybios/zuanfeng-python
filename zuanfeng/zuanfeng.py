@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# TODO:
-# 1. 定义异常 {u'message': u'param is missing or the value is empty: theme', u'error': u'ParameterInvalid'}
-# 2. 检查参数 （装饰器版本）
-# 3. 返回失败消息的secrets列表
 import requests
 
 class ZuanFeng(object):
@@ -62,4 +58,4 @@ class ZuanFeng(object):
         
 
 if __name__ == '__main__':
-    # print ZuanFeng.push('your secret key')
+    pass

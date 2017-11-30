@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "zuanfeng",
-    version = "0.0.1",
+    version = "0.0.2",
     keywords = ("pip", "zuanfeng", "xiaozuanfeng", "zuanfengxiaojiang", "zf"),
     description = "zuanfeng captain sdk",
     long_description = "zuanfeng captain sdk for python",
