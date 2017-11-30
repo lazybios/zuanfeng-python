@@ -1,3 +1,3 @@
-from .zuanfeng import ZuanFeng
+from .zuanfeng import push, push_batch
 
-__all__ = ['ZuanFeng']
+__all__ = ['push', 'push_batch']
